@@ -11,12 +11,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-# pkgs-etc
+# projects
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-`r emo::ji("man_technologist")` A work-in-progress list of projects I've been working on.
+`r emo::ji("man_technologist")` A work-in-progress list of personal projects I've been working on.
 
 ## `r emo::ji("package")` R Packages
 

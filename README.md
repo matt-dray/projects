@@ -1,12 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# pkgs-etc
+# projects
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-👨‍💻 A work-in-progress list of projects I’ve been working on.
+👨‍💻 A work-in-progress list of personal projects I’ve been working on.
 
 ## 📦 R Packages
 
