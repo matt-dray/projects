@@ -32,7 +32,7 @@ knitr::opts_chunk$set(
 | {badgr} | | Generate a customised README metadata badge from shields.io | [Source](https://github.com/matt-dray/badgr), [site](https://matt-dray.github.io/badgr/), [blog](https://www.rostrum.blog/2020/05/08/readme-badge/) |
 | {blogsnip} | | RStudio Addins for {blogsnip} workflows | [Source](https://github.com/matt-dray/blogsnip), [site](https://matt-dray.github.io/blogsnip/), [blog](https://www.rostrum.blog/2019/10/22/blogsnip/) |
 | {cabinet} | | Demo to teach package generation with {usethis} | [Source](https://github.com/matt-dray/cabinet), [site](https://matt-dray.github.io/cabinet/), [blog](https://www.rostrum.blog/2019/11/01/usethis/), [slides](https://matt-dray.github.io/r-pkg-slides/#1) |
-| {coloratio} | | Check the contrast of two colours for accessibility | [Source](https://github.com/matt-dray/coloratio) |
+| {coloratio} | | Check the contrast of two colours for accessibility | [Source](https://github.com/matt-dray/coloratio), [blog](https://www.rostrum.blog/2020/12/30/coloratio/) |
 | {cran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/cran_hex.png" width=50> | Work with an antiquated unit of uncleaned herrings | [Source](https://github.com/matt-dray/cran), [site](https://matt-dray.github.io/cran/), [blog](https://www.rostrum.blog/2020/09/12/herring-units/) |
 | {dray} | | Miscellaneous personal functions | [Source](https://github.com/matt-dray/dray), [site](https://matt-dray.github.io/dray/), [blog](https://www.rostrum.blog/2018/05/25/cloud-pie/) |
 | {gdstheme} | | {xaringan} theme and template | [Source](https://github.com/matt-dray/gdstheme), [site](https://matt-dray.github.io/gdstheme/), [blog](https://www.rostrum.blog/2019/05/24/xaringan-template/), [slides](https://matt-dray.github.io/gdstheme/#1) |
@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 | {oystr} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/oystr_hex.png" width=50> | Work with data from Transport for London's Oyster card payment system | [Source](https://github.com/matt-dray/oystr), [site](https://matt-dray.github.io/oystr/), [blog](https://www.rostrum.blog/2019/12/23/oystr/) |
 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng), [site](https://www.github.com/matt-dray/r2eng/), [blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/) |
 
-The source for the hex logos is in [my 'stickers' repo](https://github.com/matt-dray/stickers).
+These are all hosted on GitHub; none are on CRAN. The source for the hex logos is in [my 'stickers' repo](https://github.com/matt-dray/stickers).
 
 ## `r emo::ji("sparkles")` R Shiny apps
 
