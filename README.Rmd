@@ -43,16 +43,19 @@ These are all hosted on GitHub; none are on CRAN. The source for the hex logos i
 | {oystr} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/oystr_hex.png" width=50> | Work with data from Transport for London's Oyster card payment system | [Source](https://github.com/matt-dray/oystr)<br>[Site](https://matt-dray.github.io/oystr/)<br>[Blog](https://www.rostrum.blog/2019/12/23/oystr/) |
 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng)<br>[Site](https://www.github.com/matt-dray/r2eng/)<br>[Blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/) |
 | {safar6} | | Playable simulation of the Safari Zone from Pokémon Blue using {R6} OOP | [Source](https://github.com/matt-dray/safar6)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) |
+| {skyphone} | | Get contributions data from the GitHub Skyline API and visualise/sonify it | [Source](https://github.com/matt-dray/skyphone/)<br>[Blog](https://www.rostrum.blog/2021/02/21/skyphone/) |
+
 
 ## `r emo::ji("sparkles")` R Shiny apps
 
-All apps hosted on [on shinyapps.io](https://www.shinyapps.io/).
+Apps hosted on [on shinyapps.io](https://www.shinyapps.io/).
 
 | Name | What | Links |
 | :--- | :--- | :--- |
 | Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/) |
-| Deer-vehicle collisions in Scotland | Explore open data on deer strikes in Scotland, 2000 to 2017  | [App](https://mattdray.shinyapps.io/scot-deer-collisions/)<br>[Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/) |
+| Deer-vehicle collisions in Scotland | Explore open data on deer strikes in Scotland, 2000 to 2017  | [Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/) |
 | How many footballers at World Cup 2018 were younger than you? | Realise it's too late for you to become a professional footballer | [App](https://mattdray.shinyapps.io/wc18-age/)<br>[Source](https://github.com/matt-dray/wc18-age)<br>[Blog](https://www.rostrum.blog/2018/07/17/world-cup-age-app/) |
+| Randoflag | Small app to provide a new browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/) |
 | Tidyquiz | A {learnr} hack to generate random quiz questions about tidyverse functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 | What's your Hadley number? | Visual demo of my {kevinbacran} package: find shortest paths to Hadley Wickham by CRAN authorship | [App](https://mattdray.shinyapps.io/hadley-number/)<br>[Source](https://github.com/matt-dray/hadley-number)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/) |
 
