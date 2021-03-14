@@ -4,18 +4,17 @@
 # projects
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 👨‍💻 A list of [personal GitHub-based
 projects](https://github.com/matt-dray?tab=repositories) I’ve worked on
 for fun.
 
-  - 📦 [R packages](#-r-packages)
-  - ✨ [R Shiny apps](#-r-shiny-apps)
-  - 🕸 [Websites](#-websites)
-  - 📽 [Presentations](#-presentations)
-  - ➕ [Other](#-other)
+-   📦 [R packages](#-r-packages)
+-   ✨ [R Shiny apps](#-r-shiny-apps)
+-   🕸 [Websites](#-websites)
+-   📽 [Presentations](#-presentations)
+-   ➕ [Other](#-other)
 
 ## 📦 R Packages
 
@@ -23,7 +22,7 @@ These are all hosted on GitHub; none are on CRAN. The source for the hex
 logos is in [my ‘stickers’ repo](https://github.com/matt-dray/stickers).
 
 | Name          | Hex                                                                                                         | What                                                                              | Links                                                                                                                                                                                                                       |
-| :------------ | :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:--------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | {altcheckr}   | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/altcheckr_hex.png" width=50>   | Accessibility checker: scrape websites and assess image alt-text                  | [Source](https://github.com/matt-dray/altcheckr)<br>[Site](https://matt-dray.github.io/altcheckr/)<br>[Blog](https://www.rostrum.blog/2019/12/08/altcheckr/)                                                                |
 | {badgr}       |                                                                                                             | Generate a customised README metadata badge from shields.io                       | [Source](https://github.com/matt-dray/badgr)<br>[Site](https://matt-dray.github.io/badgr/)<br>[Blog](https://www.rostrum.blog/2020/05/08/readme-badge/)                                                                     |
 | {blogsnip}    |                                                                                                             | RStudio Addins for {blogdown} content                                             | [Source](https://github.com/matt-dray/blogsnip)<br>[Site](https://matt-dray.github.io/blogsnip/)<br>[Blog](https://www.rostrum.blog/2019/10/22/blogsnip/)                                                                   |
@@ -44,11 +43,11 @@ logos is in [my ‘stickers’ repo](https://github.com/matt-dray/stickers).
 Apps hosted on [on shinyapps.io](https://www.shinyapps.io/).
 
 | Name                                                          | What                                                                                              | Links                                                                                                                                                                     |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|:--------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Animal Crossing Popularity Contest                            | Swipe left or right on villagers from Nintendo’s Animal Crossing New Horizons, Tinder-style       | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/)          |
 | Deer-vehicle collisions in Scotland                           | Explore open data on deer strikes in Scotland, 2000 to 2017                                       | [Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/)                                               |
 | How many footballers at World Cup 2018 were younger than you? | Realise it’s too late for you to become a professional footballer                                 | [App](https://mattdray.shinyapps.io/wc18-age/)<br>[Source](https://github.com/matt-dray/wc18-age)<br>[Blog](https://www.rostrum.blog/2018/07/17/world-cup-age-app/)       |
-| Randoflag                                                     | Small app to provide a new browser-tab flag challenge                                             | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)                                                                      |
+| Randoflag                                                     | Small app to provide a new browser-tab flag challenge                                             | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/)            |
 | Tidyquiz                                                      | A {learnr} hack to generate random quiz questions about tidyverse functions                       | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/)          |
 | What’s your Hadley number?                                    | Visual demo of my {kevinbacran} package: find shortest paths to Hadley Wickham by CRAN authorship | [App](https://mattdray.shinyapps.io/hadley-number/)<br>[Source](https://github.com/matt-dray/hadley-number)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/) |
 
@@ -58,7 +57,7 @@ Pages written with R Markdown, hosted on GitHub and deployed with
 [Netlify](https://www.netlify.com/).
 
 | Name                                        | Type                                | What                                                                               | Links                                                                                                         |
-| :------------------------------------------ | :---------------------------------- | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+|:--------------------------------------------|:------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
 | [rostrum.blog](https://www.rostrum.blog/)   | Blog made with {blogdown}           | Fun and learning with R: posting tutorials, tips, data exploration, visualisations | [Source](https://www.github.com/matt-dray/rostrum-blog/)<br>[About](https://www.rostrum.blog/about)           |
 | [matt-dray.com](https://www.matt-dray.com/) | Personal site made with {postcards} | A single-page launchpad for links to Twitter, GitHub, etc                          | [Source](https://www.github.com/matt-dray/postcard/)<br>[Blog](https://www.rostrum.blog/2020/12/08/postcard/) |
 
@@ -68,7 +67,7 @@ Most slides made with [the {xaringan}
 package](https://slides.yihui.org/xaringan/#1).
 
 | Title                                 | Where, when                                                    | What                                                                                                           | Links                                                                                                                                                                                                                                                                                                                                            |
-| :------------------------------------ | :------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:--------------------------------------|:---------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hit your reproducibility {targets}    | Data Science Festival, UK Government, virtual, Sep 2020        | Introduction and demo of the {targets} package for workflow reproducibility in R                               | [Slides](https://matt-dray.github.io/targets-dsfest/)<br>[Source](https://github.com/matt-dray/targets-dsfest)<br>[Blog](https://www.rostrum.blog/2020/09/27/targets-dsfest/)                                                                                                                                                                    |
 | {drake} for reproducible workflows    | Bionformatics London Meetup, London, Jan 2020                  | Introduction and demo of the {drake} package for workflow reproducibility in R                                 | [Slides](https://matt-dray.github.io/drake-bioinformatics/#1)<br>[Source](https://github.com/matt-dray/drake-bioinformatics)<br>[Blog](https://www.rostrum.blog/2020/01/31/reprobioinformatics/)                                                                                                                                                 |
 | Reproducibility in R: three things    | Data Science Week, Department for Education, virtual, Jan 2020 | Advice on making your R projects more reproducible                                                             | [Slides](https://matt-dray.github.io/reproducibility-ds-week/#1)<br>[Source](https://github.com/matt-dray/reproducibility-ds-week)<br>[Blog](https://www.rostrum.blog/2020/01/22/repro-three-things/)                                                                                                                                            |
@@ -80,7 +79,7 @@ package](https://slides.yihui.org/xaringan/#1).
 ## ➕ Other
 
 | Name         | What                                                                                                                 | Links                                                                                                                                                           |
-| :----------- | :------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:-------------|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | gamelad      | An RStudio theme to mimic the original GameBoy’s green palette (intended for use with my {safar6} package)           | [Source](https://github.com/matt-dray/gamelad/)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/)                                                          |
 | londonmapbot | A Twitter bot that tweets a MapBox satellite image of a random part of London, made with {rtweet} and GitHub Actions | [Twitter](https://twitter.com/londonmapbot)<br>[Source](https://github.com/matt-dray/londonmapbot)<br>[Blog](https://www.rostrum.blog/2020/09/21/londonmapbot/) |
 | Tidyswirl    | A work-in-progress introduction to the tidyverse using {swirl} for learning R from within R itself                   | [Source](https://github.com/matt-dray/tidyswirl)<br>[Blog](https://www.rostrum.blog/2019/11/02/tidyswirl/)                                                      |
