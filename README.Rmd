@@ -36,8 +36,9 @@ These are all hosted on GitHub; none are on CRAN. The source for the hex logos i
 | {cabinet} | | Demo to teach package generation with {usethis} | [Source](https://github.com/matt-dray/cabinet)<br>[Site](https://matt-dray.github.io/cabinet/)<br>[Blog](https://www.rostrum.blog/2019/11/01/usethis/)<br>[Slides](https://matt-dray.github.io/r-pkg-slides/#1) |
 | {coloratio} | | Check the contrast of two colours for accessibility | [Source](https://github.com/matt-dray/coloratio)<br>[Blog](https://www.rostrum.blog/2020/12/30/coloratio/) |
 | {cran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/cran_hex.png" width=50> | Work with an antiquated unit of uncleaned herrings | [Source](https://github.com/matt-dray/cran)<br>[Site](https://matt-dray.github.io/cran/)<br>[Blog](https://www.rostrum.blog/2020/09/12/herring-units/) |
+| {dialga} | | Create standard cron strings from R expressions | [Source](https://github.com/matt-dray/dialga) |
 | {dray} | | Miscellaneous personal functions | [Source](https://github.com/matt-dray/dray)<br>[Site](https://matt-dray.github.io/dray/)<br>[Blog](https://www.rostrum.blog/2018/05/25/cloud-pie/) |
-| {gdstheme} | | {xaringan} theme and template | [Source](https://github.com/matt-dray/gdstheme)<br>[Site](https://matt-dray.github.io/gdstheme/)<br>[Blog](https://www.rostrum.blog/2019/05/24/xaringan-template/)<br>[Slides](https://matt-dray.github.io/gdstheme/#1) |
+| {gdstheme} | | {xaringan} theme and template for the Government Digital Service, in package form | [Source](https://github.com/matt-dray/gdstheme)<br>[Site](https://matt-dray.github.io/gdstheme/)<br>[Blog](https://www.rostrum.blog/2019/05/24/xaringan-template/)<br>[Slides](https://matt-dray.github.io/gdstheme/#1) |
 | {ghdump} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/ghdump_hex.png" width=50> | Download/clone all GitHub repos for a given user | [Source](https://github.com/matt-dray/ghdump)<br>[Site](https://www.github.com/matt-dray/ghdump/)<br>[Blog](https://www.rostrum.blog/2020/06/14/ghdump/) |
 | {kevinbacran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/kevinbacran_hex.png" width=50> | Calculate graph distances for CRAN authors, á la 'the six degrees of Kevin Bacon' | [Source](https://github.com/matt-dray/kevinbacran)<br>[Site](https://matt-dray.github.io/kevinbacran/)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/)<br>[App](https://mattdray.shinyapps.io/hadley-number/) |
 | {oystr} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/oystr_hex.png" width=50> | Work with data from Transport for London's Oyster card payment system | [Source](https://github.com/matt-dray/oystr)<br>[Site](https://matt-dray.github.io/oystr/)<br>[Blog](https://www.rostrum.blog/2019/12/23/oystr/) |
@@ -53,11 +54,17 @@ Apps hosted on [on shinyapps.io](https://www.shinyapps.io/).
 | Name | What | Links |
 | :--- | :--- | :--- |
 | Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/) |
-| Deer-vehicle collisions in Scotland | Explore open data on deer strikes in Scotland, 2000 to 2017  | [Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/) |
-| How many footballers at World Cup 2018 were younger than you? | Realise it's too late for you to become a professional footballer | [App](https://mattdray.shinyapps.io/wc18-age/)<br>[Source](https://github.com/matt-dray/wc18-age)<br>[Blog](https://www.rostrum.blog/2018/07/17/world-cup-age-app/) |
-| Randoflag | Small app to provide a new browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/) |
+| Randoflag | Small app to provide a new-browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/) |
 | Tidyquiz | A {learnr} hack to generate random quiz questions about tidyverse functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 | What's your Hadley number? | Visual demo of my {kevinbacran} package: find shortest paths to Hadley Wickham by CRAN authorship | [App](https://mattdray.shinyapps.io/hadley-number/)<br>[Source](https://github.com/matt-dray/hadley-number)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/) |
+
+Apps on GitHub, but not hosted.
+
+| Name | What | Links |
+| :--- | :--- | :--- |
+| Deer-vehicle collisions in Scotland | Explore open data on deer strikes in Scotland, 2000 to 2017  | [Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/) |
+| How many footballers at World Cup 2018 were younger than you? | Realise it's too late for you to become a professional footballer | [Source](https://github.com/matt-dray/wc18-age)<br>[Blog](https://www.rostrum.blog/2018/07/17/world-cup-age-app/) |
+| Mission Across IOW | Investigate the easiest route to cross the Isle of Wight on foot in a straight line | [Source](https://github.com/matt-dray/mission-across-iow) |
 
 ## `r emo::ji("spider_web")` Websites
 
