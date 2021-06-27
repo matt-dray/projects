@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 
 ## `r emo::ji("package")` R Packages
 
-These are all hosted on GitHub; none are on CRAN. You can find a refined selection of these on [my R-universe page](https://matt-dray.r-universe.dev/ui#builds). The source for the hex logos is in [my 'stickers' repo](https://github.com/matt-dray/stickers).
+These are all hosted on GitHub; none are on CRAN. You can find a refined selection of the more useful ones on [my R-universe page](https://matt-dray.r-universe.dev/ui#builds). The source for the hex logos is in [my 'stickers' repo](https://github.com/matt-dray/stickers).
 
 | Name | Hex | What | Links |
 | :--- | :--- | :--- | :--- |
@@ -37,7 +37,8 @@ These are all hosted on GitHub; none are on CRAN. You can find a refined selecti
 | {coloratio} | | Check the contrast of two colours for accessibility | [Source](https://github.com/matt-dray/coloratio)<br>[Blog](https://www.rostrum.blog/2020/12/30/coloratio/) |
 | {cran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/cran_hex.png" width=50> | Work with an antiquated unit of uncleaned herrings | [Source](https://github.com/matt-dray/cran)<br>[Site](https://matt-dray.github.io/cran/)<br>[Blog](https://www.rostrum.blog/2020/09/12/herring-units/) |
 | {dialga} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/dialga_hex.png" width=50> | Create standard cron strings from R expressions | [Source](https://github.com/matt-dray/dialga)<br>[Blog](https://www.rostrum.blog/2021/04/10/dialga/) |
-| {dray} | | Miscellaneous personal functions | [Source](https://github.com/matt-dray/dray)<br>[Site](https://matt-dray.github.io/dray/)<br>[Blog](https://www.rostrum.blog/2018/05/25/cloud-pie/) |
+| {dray} | | Miscellaneous personal functions | [Source](https://github.com/matt-dray/dray)<br>[Blog](https://www.rostrum.blog/2018/05/25/cloud-pie/) |
+| {emojiscape} | | Generate a small emoji scene in your console | [Source](https://github.com/matt-dray/emojiscape)<br>[Blog](https://www.rostrum.blog/2021/06/26/emojiscape/) |
 | {gdstheme} | | {xaringan} theme and template for the Government Digital Service, in package form | [Source](https://github.com/matt-dray/gdstheme)<br>[Site](https://matt-dray.github.io/gdstheme/)<br>[Blog](https://www.rostrum.blog/2019/05/24/xaringan-template/)<br>[Slides](https://matt-dray.github.io/gdstheme/#1) |
 | {ghdump} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/ghdump_hex.png" width=50> | Download/clone all GitHub repos for a given user | [Source](https://github.com/matt-dray/ghdump)<br>[Site](https://www.github.com/matt-dray/ghdump/)<br>[Blog](https://www.rostrum.blog/2020/06/14/ghdump/) |
 | {kevinbacran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/kevinbacran_hex.png" width=50> | Calculate graph distances for CRAN authors, á la 'the six degrees of Kevin Bacon' | [Source](https://github.com/matt-dray/kevinbacran)<br>[Site](https://matt-dray.github.io/kevinbacran/)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/)<br>[App](https://mattdray.shinyapps.io/hadley-number/) |
@@ -96,5 +97,6 @@ Most slides made with [the {xaringan} package](https://slides.yihui.org/xaringan
 | Name | What | Links |
 | :--- | :--- | :--- |
 | gamelad | An RStudio theme to mimic the original GameBoy's green palette (intended for use with my {safar6} package)  | [Source](https://github.com/matt-dray/gamelad/)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) | 
+| Dataviz recreations | Attempts to recreate/remix data visualtisations and art | [Source](https://github.com/matt-dray/viz-recreation)<br>[Blog 1](https://www.rostrum.blog/2021/06/08/recreate-spear/)<br>[Blog 2](https://www.rostrum.blog/2021/06/21/recreate-hlito/) | 
 | londonmapbot | A Twitter bot that tweets a MapBox satellite image of a random part of London, made with {rtweet} and GitHub Actions | [Twitter](https://twitter.com/londonmapbot)<br>[Source](https://github.com/matt-dray/londonmapbot)<br>[Blog](https://www.rostrum.blog/2020/09/21/londonmapbot/) | 
 | Tidyswirl | A work-in-progress introduction to the tidyverse using {swirl} for learning R from within R itself | [Source](https://github.com/matt-dray/tidyswirl)<br>[Blog](https://www.rostrum.blog/2019/11/02/tidyswirl/) | 
