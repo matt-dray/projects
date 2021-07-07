@@ -47,7 +47,7 @@ These are all hosted on GitHub; none are on CRAN. You can find a refined selecti
 | {pico} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/pico_hex.png" width=50> | Create an R package with the minimum required content | [Source](https://github.com/matt-dray/pico)<br>[Blog](https://www.rostrum.blog/2021/04/18/pico-pkg/) |
 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng)<br>[Site](https://www.github.com/matt-dray/r2eng/)<br>[Blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/) |
 | {safar6} | | Playable simulation of the Safari Zone from Pokémon Blue using {R6} OOP | [Source](https://github.com/matt-dray/safar6)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) |
-| {skyphone} | | Get contributions data from the GitHub Skyline API and visualise/sonify it | [Source](https://github.com/matt-dray/skyphone/)<br>[Blog](https://www.rostrum.blog/2021/02/21/skyphone/) |
+| {skyphone} | | Get contributions data from the GitHub Skyline API (deprecated) and visualise/sonify it | [Source](https://github.com/matt-dray/skyphone/)<br>[Blog](https://www.rostrum.blog/2021/02/21/skyphone/) |
 
 
 ## `r emo::ji("sparkles")` R Shiny apps
@@ -57,6 +57,7 @@ Apps hosted on [on shinyapps.io](https://www.shinyapps.io/).
 | Name | What | Links |
 | :--- | :--- | :--- |
 | Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/) |
+| LeWitt ReMix | An app to remix 'art' in the style of Sol LeWitt for #RecreationThursday | [App](https://mattdray.shinyapps.io/lewitt-remix-app/)<br>[Source](https://github.com/matt-dray/viz-recreation/tree/main/2021-07-01_rt_lewitt/lewitt-remix-app)<br>[Blog](https://www.rostrum.blog/2021/07/05/recreate-lewitt/) |
 | Randoflag | Small app to provide a new-browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/) |
 | Tidyquiz | A {learnr} hack to generate random quiz questions about tidyverse functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 | What's your Hadley number? | Visual demo of my {kevinbacran} package: find shortest paths to Hadley Wickham by CRAN authorship | [App](https://mattdray.shinyapps.io/hadley-number/)<br>[Source](https://github.com/matt-dray/hadley-number)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/) |
@@ -75,8 +76,8 @@ Pages written with R Markdown, hosted on GitHub and deployed with [Netlify](http
 
 | Name | Type | What | Links |
 | :--- | :--- | :--- | :--- |
-| [rostrum.blog](https://www.rostrum.blog/) | Blog made with {blogdown} | Fun and learning with R: posting tutorials, tips, data exploration, visualisations | [Source](https://www.github.com/matt-dray/rostrum-blog/)<br>[About](https://www.rostrum.blog/about) |
 | [matt-dray.com](https://www.matt-dray.com/) | Personal site made with {postcards} | A single-page launchpad for links to Twitter, GitHub, etc | [Source](https://www.github.com/matt-dray/postcard/)<br>[Blog](https://www.rostrum.blog/2020/12/08/postcard/) |
+| [rostrum.blog](https://www.rostrum.blog/) | Blog made with {blogdown} | Fun and learning with R: posting tutorials, tips, data exploration, visualisations | [Source](https://www.github.com/matt-dray/rostrum-blog/)<br>[About](https://www.rostrum.blog/about) |
 
 ## `r emo::ji("film_projector")` Presentations
 
@@ -97,6 +98,6 @@ Most slides made with [the {xaringan} package](https://slides.yihui.org/xaringan
 | Name | What | Links |
 | :--- | :--- | :--- |
 | gamelad | An RStudio theme to mimic the original GameBoy's green palette (intended for use with my {safar6} package)  | [Source](https://github.com/matt-dray/gamelad/)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) | 
-| Dataviz recreations | Attempts to recreate/remix data visualtisations and art | [Source](https://github.com/matt-dray/viz-recreation)<br>[Blog 1](https://www.rostrum.blog/2021/06/08/recreate-spear/)<br>[Blog 2](https://www.rostrum.blog/2021/06/21/recreate-hlito/) | 
+| Dataviz recreations | Attempts to recreate/remix data visualisations and art | [Source](https://github.com/matt-dray/viz-recreation)<br>[Blog 1](https://www.rostrum.blog/2021/06/08/recreate-spear/)<br>[Blog 2](https://www.rostrum.blog/2021/06/21/recreate-hlito/) | 
 | londonmapbot | A Twitter bot that tweets a MapBox satellite image of a random part of London, made with {rtweet} and GitHub Actions | [Twitter](https://twitter.com/londonmapbot)<br>[Source](https://github.com/matt-dray/londonmapbot)<br>[Blog](https://www.rostrum.blog/2020/09/21/londonmapbot/) | 
 | Tidyswirl | A work-in-progress introduction to the tidyverse using {swirl} for learning R from within R itself | [Source](https://github.com/matt-dray/tidyswirl)<br>[Blog](https://www.rostrum.blog/2019/11/02/tidyswirl/) | 
