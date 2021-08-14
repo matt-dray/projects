@@ -36,6 +36,7 @@ These are all hosted on GitHub; none are on CRAN. Install with `remotes::install
 | {cabinet} | | Demo to teach package generation with {usethis} | [Source](https://github.com/matt-dray/cabinet)<br>[Site](https://matt-dray.github.io/cabinet/)<br>[Blog](https://www.rostrum.blog/2019/11/01/usethis/)<br>[Slides](https://matt-dray.github.io/r-pkg-slides/#1) |
 | {coloratio} | | Check the contrast of two colours for accessibility | [Source](https://github.com/matt-dray/coloratio)<br>[Blog](https://www.rostrum.blog/2020/12/30/coloratio/) |
 | {cran} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/cran_hex.png" width=50> | Work with an antiquated unit of uncleaned herrings | [Source](https://github.com/matt-dray/cran)<br>[Site](https://matt-dray.github.io/cran/)<br>[Blog](https://www.rostrum.blog/2020/09/12/herring-units/) |
+| {dehex} | <img src="https://raw.githubusercontent.com/matt-dray/dehex/main/man/figures/logo.png" width=50> | Learn how to read a colour hex code | [Source](https://github.com/matt-dray/dehex)<br>[Blog](https://www.rostrum.blog/2021/08/10/dehex/) |
 | {dialga} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/dialga_hex.png" width=50> | Create standard cron strings from R expressions | [Source](https://github.com/matt-dray/dialga)<br>[Blog](https://www.rostrum.blog/2021/04/10/dialga/) |
 | {dray} | | A small handful of miscellaneous personal functions | [Source](https://github.com/matt-dray/dray)<br>[Blog](https://www.rostrum.blog/2018/05/25/cloud-pie/) |
 | {emojiscape} | | Generate a small emoji scene in your console | [Source](https://github.com/matt-dray/emojiscape)<br>[Blog](https://www.rostrum.blog/2021/06/26/emojiscape/) |
@@ -48,6 +49,7 @@ These are all hosted on GitHub; none are on CRAN. Install with `remotes::install
 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng)<br>[Site](https://www.github.com/matt-dray/r2eng/)<br>[Blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/) |
 | {safar6} | | Playable simulation of the Safari Zone from Pokémon Blue using {R6} OOP | [Source](https://github.com/matt-dray/safar6)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) |
 | {skyphone} | | Get contributions data from the GitHub Skyline API (deprecated) and visualise/sonify it | [Source](https://github.com/matt-dray/skyphone/)<br>[Blog](https://www.rostrum.blog/2021/02/21/skyphone/) |
+| {tidyquiz} | | A {learnr}/{shiny} hack to generate random quiz questions about {tidyverse} functions | [Source](https://github.com/matt-dray/tidyquiz)<br>[App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 
 
 ## `r emo::ji("sparkles")` R Shiny apps
@@ -59,7 +61,7 @@ Apps hosted [on shinyapps.io](https://www.shinyapps.io/).
 | Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/) |
 | LeWitt ReMix | An app to remix 'art' in the style of Sol LeWitt for #RecreationThursday | [App](https://mattdray.shinyapps.io/lewitt-remix-app/)<br>[Source](https://github.com/matt-dray/viz-recreation/tree/main/2021-07-01_rt_lewitt/lewitt-remix-app)<br>[Blog](https://www.rostrum.blog/2021/07/05/recreate-lewitt/) |
 | Randoflag | Small app to provide a new-browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/) |
-| Tidyquiz | A {learnr} hack to generate random quiz questions about tidyverse functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
+| Tidyquiz | A {learnr}/{shiny} hack to generate random quiz questions about {tidyverse} functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 | What's your Hadley number? | Visual demo of my {kevinbacran} package: find shortest paths to Hadley Wickham by CRAN authorship | [App](https://mattdray.shinyapps.io/hadley-number/)<br>[Source](https://github.com/matt-dray/hadley-number)<br>[Blog](https://www.rostrum.blog/2019/02/27/hadley-number/) |
 
 Apps on GitHub, but not hosted.
@@ -68,7 +70,8 @@ Apps on GitHub, but not hosted.
 | :--- | :--- | :--- |
 | Deer-vehicle collisions in Scotland | Explore open data on deer strikes in Scotland, 2000 to 2017  | [Source](https://github.com/matt-dray/scot-deer-collisions)<br>[Blog](https://www.rostrum.blog/2019/01/18/deer-collisions/) |
 | How many footballers at World Cup 2018 were younger than you? | Realise it's too late for you to become a professional footballer | [Source](https://github.com/matt-dray/wc18-age)<br>[Blog](https://www.rostrum.blog/2018/07/17/world-cup-age-app/) |
-| Mission Across IOW | Investigate the easiest route to cross the Isle of Wight on foot in a straight line | [Source](https://github.com/matt-dray/mission-across-iow)<br>[Blog](https://www.rostrum.blog/2021/05/22/mission-across-iow/) |
+| Mission Across IOW | Investigate the easiest route to cross the Isle of Wight on foot in a straight line (work in progress) | [Source](https://github.com/matt-dray/mission-across-iow)<br>[Blog](https://www.rostrum.blog/2021/05/22/mission-across-iow/) |
+| Read a colour hex code | Learn how to interpret the colour encoded in a hex code with {dehex} (work in progress) | [Source](https://github.com/matt-dray/dehex-challenge)<br>[Blog](https://www.rostrum.blog/2021/08/10/dehex/) |
 
 ## `r emo::ji("spider_web")` Websites
 
