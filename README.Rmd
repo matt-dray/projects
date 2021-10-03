@@ -30,6 +30,7 @@ These are all hosted on GitHub; none are on CRAN. Install with `remotes::install
 
 | Name | Hex | What | Links |
 | :--- | :--- | :--- | :--- |
+| {ActionSquirrel} |  | Play an audiovisual 'game' in your R console, thanks to {R6} | [Source](https://github.com/matt-dray/ActionSquirrel)<br>[Blog](https://www.rostrum.blog/2021/10/03/squirrel/) |
 | {altcheckr} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/altcheckr_hex.png" width=50> | Accessibility checker: scrape websites and assess image alt-text | [Source](https://github.com/matt-dray/altcheckr)<br>[Site](https://matt-dray.github.io/altcheckr/)<br>[Blog](https://www.rostrum.blog/2019/12/08/altcheckr/) |
 | {badgr} | | Generate a customised README metadata badge from shields.io | [Source](https://github.com/matt-dray/badgr)<br>[Site](https://matt-dray.github.io/badgr/)<br>[Blog](https://www.rostrum.blog/2020/05/08/readme-badge/) |
 | {blogsnip} | | RStudio Addins for {blogdown} content | [Source](https://github.com/matt-dray/blogsnip)<br>[Site](https://matt-dray.github.io/blogsnip/)<br>[Blog](https://www.rostrum.blog/2019/10/22/blogsnip/) |
