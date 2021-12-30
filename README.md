@@ -1,14 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# projects
-
 <!-- badges: start -->
 <!-- badges: end -->
 
 👨‍💻 A list of [personal GitHub-based
-projects](https://github.com/matt-dray?tab=repositories) I’ve worked on
-for fun.
+projects](https://github.com/matt-dray?tab=repositories) that I, [Matt 
+Dray](https://www.matt-dray.com), have worked on for fun.
 
 -   📦 [R packages](#-r-packages)
 -   ✨ [R Shiny apps](#-r-shiny-apps)
