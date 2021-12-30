@@ -11,12 +11,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-# projects
-
 <!-- badges: start -->
 <!-- badges: end -->
 
-`r emo::ji("man_technologist")` A list of [personal GitHub-based projects](https://github.com/matt-dray?tab=repositories) I've worked on for fun.
+`r emo::ji("man_technologist")` A list of [personal GitHub-based
+projects](https://github.com/matt-dray?tab=repositories) that I, [Matt 
+Dray](https://www.matt-dray.com), have worked on for fun.
 
 * `r emo::ji("package")` [R packages](#-r-packages)
 * `r emo::ji("sparkles")` [R Shiny apps](#-r-shiny-apps)
