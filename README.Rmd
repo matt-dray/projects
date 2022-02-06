@@ -51,6 +51,7 @@ These are all hosted on GitHub; none are on CRAN. Install with `remotes::install
 | {pico} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/pico_hex.png" width=50> | Create an R package with the minimum required content | [Source](https://github.com/matt-dray/pico)<br>[Blog](https://www.rostrum.blog/2021/04/18/pico-pkg/) |
 | {r.oguelike} | | Play a simple ASCII game in the console inspired heavily by roguelike games  | [Source](https://github.com/matt-dray/r.oguelike)<br>[Site](https://matt-dray.github.io/r.oguelike/) |
 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng)<br>[Site](https://www.github.com/matt-dray/r2eng/)<br>[Blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/) |
+| {r.oguelike} |  | A roguelike game for the R console | [Source](https://github.com/matt-dray/r.oguelike) |
 | {safar6} | | Playable simulation of the Safari Zone from Pokémon Blue using {R6} OOP | [Source](https://github.com/matt-dray/safar6)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) |
 | {soccercolleagues} | | Find footballers' team mates and team mates in common | [Source](https://github.com/matt-dray/soccercolleagues)<br>[Blog](https://www.rostrum.blog/2022/02/04/soccercolleagues/) |
 | {snorkel} | | RStudio Addin to insert roxygen2 formatting into function documentation | [Source](https://github.com/matt-dray/snorkel) |
