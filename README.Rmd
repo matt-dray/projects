@@ -111,6 +111,7 @@ Some other bits and bobs that seem worthwhile to mention.
 | Name | What | Links |
 | :--- | :--- | :--- |
 | gamelad | An RStudio theme to mimic the original GameBoy's green palette (intended for use with my {safar6} package)  | [Source](https://github.com/matt-dray/gamelad/)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) | 
+| Hastings Half maps | A page of interactive maps of the Hastings Half-Marathon route | [Site](https://matt-dray.github.io/hastings-half/)<br>[Source](https://github.com/matt-dray/hastings-half) | 
 | Hex stickers | Hexagonal sticker designs, mostly for R packages | [Source](https://github.com/matt-dray/stickers) | 
 | Dataviz recreations | Attempts to recreate/remix data visualisations and art (see also [faxcrayon.art](https://www.faxcrayon.art/)) | [Source](https://github.com/matt-dray/viz-recreation)<br>[Blog 1](https://www.rostrum.blog/2021/06/08/recreate-spear/)<br>[Blog 2](https://www.rostrum.blog/2021/06/21/recreate-hlito/) | 
 | londonmapbot | A Twitter bot that tweets a MapBox satellite image of a random part of London, made with {rtweet} and GitHub Actions | [Twitter](https://twitter.com/londonmapbot)<br>[Source](https://github.com/matt-dray/londonmapbot)<br>[Blog](https://www.rostrum.blog/2020/09/21/londonmapbot/) | 
