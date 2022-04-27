@@ -5,7 +5,7 @@
 
 👨‍💻 A list of [personal GitHub-based
 projects](https://github.com/matt-dray?tab=repositories) that I, [Matt
-Dray](https://www.matt-dray.com), have worked on for fun.
+Dray](https://www.matt-dray.com), have worked on for fun, mostly.
 
 -   📦 [R packages](#-r-packages)
 -   ✨ [R Shiny apps](#-r-shiny-apps)
@@ -90,44 +90,16 @@ Pages written with R Markdown. All source code on GitHub.
 Most slides made with [the {xaringan}
 package](https://slides.yihui.org/xaringan/#1).
 
-| Title                                               | Where, when               | What | Links                                                                                                                                                                                                                               |
-|:----------------------------------------------------|:--------------------------|:-----|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Make a Twitter bot with {rtweet} and GitHub Actions | LondonR, London, Sep 2020 |      | [Slides](https://matt-dray.github.io/mapbot-londonr/)<br>[Video](https://player.vimeo.com/video/683004567)<br>[Source](https://github.com/matt-dray/mapbot-londonr)<br>[Blog](https://www.rostrum.blog/2022/02/12/mapbotr-londonr/) |
-
-Hit your reproducibility {targets} \| Data Science Festival, UK
-Government, virtual, Sep 2020 \| Introduction and demo of the {targets}
-package for workflow reproducibility in R \|
-[Slides](https://matt-dray.github.io/targets-dsfest/)<br>[Source](https://github.com/matt-dray/targets-dsfest)<br>[Blog](https://www.rostrum.blog/2020/09/27/targets-dsfest/)
-\|  
-{drake} for reproducible workflows \| Bionformatics London Meetup,
-London, Jan 2020 \| Introduction and demo of the {drake} package for
-workflow reproducibility in R \|
-[Slides](https://matt-dray.github.io/drake-bioinformatics/#1)<br>[Source](https://github.com/matt-dray/drake-bioinformatics)<br>[Blog](https://www.rostrum.blog/2020/01/31/reprobioinformatics/)
-\|  
-Reproducibility in R: three things \| Data Science Week, Department for
-Education, virtual, Jan 2020 \| Advice on making your R projects more
-reproducible \|
-[Slides](https://matt-dray.github.io/reproducibility-ds-week/#1)<br>[Source](https://github.com/matt-dray/reproducibility-ds-week)<br>[Blog](https://www.rostrum.blog/2020/01/22/repro-three-things/)
-\|  
-Easier R packages with {usethis} \| Coffee & Coding, UK Government,
-London, Nov 2019 \| How to build an R package from scratch with the
-{usethis} package \|
-[Slides](https://matt-dray.github.io/r-pkg-slides/)<br>[Source](https://github.com/matt-dray/r-pkg-slides)<br>[Blog](https://www.rostrum.blog/2019/11/01/usethis/)
-\|  
-Can {drake} RAP? \| Coffee & Coding, UK Government, London, Oct 2019 \|
-Introduction and demo of the {drake} package for workflows as part of a
-Reproducible Analytical Pipeline (RAP) \|
-[Slides](https://github.com/matt-dray/drake-egg-rap/blob/master/docs/drake-presentation.pdf)<br>[Blog](https://www.rostrum.blog/2019/07/23/can-drake-rap/)<br>[Materials](https://github.com/matt-dray/drake-egg-rap)
-\|  
-{crosstalk}: Shiny-like without Shiny \| EARL 2018 conference, London,
-Sep 2018 \| Intro and demo of the {crosstalk} package to allow HTML
-widgets to update dynamically without {shiny} \|
-[Slides](https://matt-dray.github.io/earl18-presentation/#1)<br>[Source](https://github.com/matt-dray/earl18-presentation)<br>[Blog](https://www.rostrum.blog/2018/09/12/crosstalk-memes/)<br>[Materials](https://github.com/matt-dray/earl18-crosstalk)<br>[Memes](https://github.com/matt-dray/earl18-presentation/blob/master/memes/links.md)
-\|  
-Intro to R Markdown \| Department for Education, London, May 2018 \|
-Quick introduction to R Markdown for beginners \|
-[Slides](https://matt-dray.github.io/quick-rmd/#1)<br>[Source](https://github.com/matt-dray/quick-rmd)<br>[Blog](https://www.rostrum.blog/2018/09/24/knitting-club/)
-\|
+| Title                                               | Where, when                                           | What                                                                                                                                                  | Links                                                                                                                                                                                                                                                                                                                                            |
+|:----------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Make a Twitter bot with {rtweet} and GitHub Actions | LondonR, London, Feb 2022                             | Use free tools to create a simple automated Twitter bot that tweets on schedule, using [londonmapbot](https://twitter.com/londonmapbot) as an example | [Video](https://player.vimeo.com/video/683004567)<br>[Slides](https://matt-dray.github.io/mapbot-londonr/)<br>[Source](https://github.com/matt-dray/mapbot-londonr)<br>[Blog](https://www.rostrum.blog/2022/02/12/mapbotr-londonr/)                                                                                                              |
+| Hit your reproducibility {targets}                  | Data Science Festival, UK Government, Sep 2020        | Introduction and demo of the {targets} package for workflow reproducibility in R                                                                      | [Slides](https://matt-dray.github.io/targets-dsfest/)<br>[Source](https://github.com/matt-dray/targets-dsfest)<br>[Blog](https://www.rostrum.blog/2020/09/27/targets-dsfest/)                                                                                                                                                                    |
+| {drake} for reproducible workflows                  | Bionformatics London Meetup, London, Jan 2020         | Introduction and demo of the {drake} package for workflow reproducibility in R                                                                        | [Slides](https://matt-dray.github.io/drake-bioinformatics/#1)<br>[Source](https://github.com/matt-dray/drake-bioinformatics)<br>[Blog](https://www.rostrum.blog/2020/01/31/reprobioinformatics/)                                                                                                                                                 |
+| Reproducibility in R: three things                  | Data Science Week, Department for Education, Jan 2020 | Advice on making your R projects more reproducible                                                                                                    | [Slides](https://matt-dray.github.io/reproducibility-ds-week/#1)<br>[Source](https://github.com/matt-dray/reproducibility-ds-week)<br>[Blog](https://www.rostrum.blog/2020/01/22/repro-three-things/)                                                                                                                                            |
+| Easier R packages with {usethis}                    | Coffee & Coding, UK Government, London, Nov 2019      | How to build an R package from scratch with the {usethis} package                                                                                     | [Slides](https://matt-dray.github.io/r-pkg-slides/)<br>[Source](https://github.com/matt-dray/r-pkg-slides)<br>[Blog](https://www.rostrum.blog/2019/11/01/usethis/)                                                                                                                                                                               |
+| Can {drake} RAP?                                    | Coffee & Coding, UK Government, London, Oct 2019      | Introduction and demo of the {drake} package for workflows as part of a Reproducible Analytical Pipeline (RAP)                                        | [Slides](https://github.com/matt-dray/drake-egg-rap/blob/master/docs/drake-presentation.pdf)<br>[Blog](https://www.rostrum.blog/2019/07/23/can-drake-rap/)<br>[Materials](https://github.com/matt-dray/drake-egg-rap)                                                                                                                            |
+| {crosstalk}: Shiny-like without Shiny               | EARL 2018 conference, London, Sep 2018                | Intro and demo of the {crosstalk} package to allow HTML widgets to update dynamically without {shiny}                                                 | [Slides](https://matt-dray.github.io/earl18-presentation/#1)<br>[Source](https://github.com/matt-dray/earl18-presentation)<br>[Blog](https://www.rostrum.blog/2018/09/12/crosstalk-memes/)<br>[Materials](https://github.com/matt-dray/earl18-crosstalk)<br>[Memes](https://github.com/matt-dray/earl18-presentation/blob/master/memes/links.md) |
+| Intro to R Markdown                                 | Department for Education, London, May 2018            | Quick introduction to R Markdown for beginners                                                                                                        | [Slides](https://matt-dray.github.io/quick-rmd/#1)<br>[Source](https://github.com/matt-dray/quick-rmd)<br>[Blog](https://www.rostrum.blog/2018/09/24/knitting-club/)                                                                                                                                                                             |
 
 ## ➕ Other
 
