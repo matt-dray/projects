@@ -64,7 +64,7 @@ Apps hosted [on shinyapps.io](https://www.shinyapps.io/). <img src='https://img.
 
 | Name | What | Links |
 | :--- | :--- | :--- |
-| Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog](https://www.rostrum.blog/2020/06/06/acnh-swipe/) |
+| Animal Crossing Popularity Contest | Swipe left or right on villagers from Nintendo's Animal Crossing New Horizons, Tinder-style | [App](https://mattdray.shinyapps.io/acnh-swipe/)<br>[Source](https://github.com/matt-dray/acnh-swipe)<br>[Blog 1](https://www.rostrum.blog/2020/06/06/acnh-swipe/)<br>[Blog 2](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/) |
 | LeWitt ReMix | An app to remix 'art' in the style of Sol LeWitt for #RecreationThursday | [App](https://mattdray.shinyapps.io/lewitt-remix-app/)<br>[Source](https://github.com/matt-dray/viz-recreation/tree/main/2021-07-01_rt_lewitt/lewitt-remix-app)<br>[Blog](https://www.rostrum.blog/2021/07/05/recreate-lewitt/) |
 | Randoflag | Small app to provide a new-browser-tab flag challenge | [App](https://mattdray.shinyapps.io/randoflag/)<br>[Source](https://github.com/matt-dray/randoflag/)<br>[Blog](https://www.rostrum.blog/2021/03/02/randoflag/) |
 | Tidyquiz | A {learnr}/{shiny} hack to generate random quiz questions about {tidyverse} functions | [App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Source](https://github.com/matt-dray/tidyquiz)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
