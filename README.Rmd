@@ -50,13 +50,14 @@ These are all hosted on GitHub; none are on CRAN. Install with `remotes::install
 | 20 | {pico} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/pico_hex.png" width=50> | Create an R package with the minimum required content | [Source](https://github.com/matt-dray/pico)<br>[Blog](https://www.rostrum.blog/2021/04/18/pico-pkg/) |
 | 21 | {plunderplot} | | Extract datapoints from PNG images of plots | [Source](https://github.com/matt-dray/plunderplot) |
 | 22 | {r2eng} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r2eng_hex.png" width=50> | Translate R expressions to English sentences | [Source](https://github.com/matt-dray/r2eng)<br>[Site](https://www.github.com/matt-dray/r2eng/)<br>[Blog](https://www.rostrum.blog/2020/11/14/hello-r2eng/)<br>[Binder](https://github.com/matt-dray/try-r2eng) |
-| 23 | {r.oguelike} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r.oguelike_hex.png" width=50> | A dungeon-crawling ASCII roguelike game for the R console | [Source](https://github.com/matt-dray/r.oguelike)<br>[Site](https://matt-dray.github.io/r.oguelike/)<br>[Blog 1](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)<br>[Blog 2](https://www.rostrum.blog/2022/05/01/dungeon/)<br>[Binder](https://mybinder.org/v2/gh/matt-dray/play-r.oguelike/main?urlpath=rstudio) |
+| 23 | {r.oguelike} | <img src="https://raw.githubusercontent.com/matt-dray/stickers/master/output/r.oguelike_hex.png" width=50> | A dungeon-crawling ASCII roguelike game for the R console (WIP) | [Source](https://github.com/matt-dray/r.oguelike)<br>[Site](https://matt-dray.github.io/r.oguelike/)<br>[Blog 1](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)<br>[Blog 2](https://www.rostrum.blog/2022/05/01/dungeon/)<br>[Binder](https://mybinder.org/v2/gh/matt-dray/play-r.oguelike/main?urlpath=rstudio) |
 | 24 | {safar6} | | Playable in-console text-based simulation of the Safari Zone from Pokémon Blue using {R6} OOP | [Source](https://github.com/matt-dray/safar6)<br>[Blog](https://www.rostrum.blog/2021/01/04/safar6/) |
 | 25 | {soccercolleagues} | | Find footballers' team mates and team-mates-in-common | [Source](https://github.com/matt-dray/soccercolleagues)<br>[Blog](https://www.rostrum.blog/2022/02/04/soccercolleagues/) |
 | 26 | {snorkel} | | RStudio Addin to insert roxygen2 formatting into function documentation | [Source](https://github.com/matt-dray/snorkel)<br>[Blog](https://www.rostrum.blog/2022/02/19/backtick/) |
 | 27 | {skyphone} | | Get contributions data from the GitHub Skyline API (deprecated) and visualise/sonify it | [Source](https://github.com/matt-dray/skyphone/)<br>[Blog](https://www.rostrum.blog/2021/02/21/skyphone/) |
 | 28 | {tide} | | Edit a data.frame with R's inbuilt spreadsheet-like data editor and get some code to reproduce the manual changes you made | [Source](https://github.com/matt-dray/tide/)<br>[Blog](https://www.rostrum.blog/2022/04/27/tide/) |
-| 29 | {tidyquiz} | | A {learnr}/{shiny} hack to generate random quiz questions about {tidyverse} functions | [Source](https://github.com/matt-dray/tidyquiz)<br>[App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
+| 29 | {tamRgo} | | Digital pets (think Tamagotchis) in R via GitHub gists? (WIP) | [Source](https://github.com/matt-dray/tamRgo)<br>[Site](https://matt-dray.github.io/tamRgo/)<br> |
+| 30 | {tidyquiz} | | A {learnr}/{shiny} hack to generate random quiz questions about {tidyverse} functions | [Source](https://github.com/matt-dray/tidyquiz)<br>[App](https://mattdray.shinyapps.io/tidyquiz/)<br>[Blog](https://www.rostrum.blog/2019/03/18/tidyverse-quiz/) |
 
 ## `r emo::ji("sparkles")` R Shiny apps
 
@@ -91,10 +92,11 @@ Pages written with R Markdown. All source code on GitHub.
 
 ## `r emo::ji("film_projector")` Presentations
 
-Most slides made with [the {xaringan} package](https://slides.yihui.org/xaringan/#1).
+Slides made with [the {xaringan} package](https://slides.yihui.org/xaringan/#1) or [Quarto](https://quarto.org/docs/presentations/revealjs/).
 
 | Title | Where, when | What | Links |
 | :--- | :--- | :--- | :--- |
+| Create reproducible and accessible spreadsheets with {a11ytables} | EARL 2022 conference, London, Sep 2022 | Generate best-practice spreadsheets with help from the {a11ytables} R package | [Slides](https://matt-dray.github.io/earl22-presentation/)<br>[Source](https://github.com/matt-dray/earl22-presentation)<br>[Blog](https://www.rostrum.blog/2022/09/07/earl22/) |
 | Make a Twitter bot with {rtweet} and GitHub Actions | LondonR, London, Feb 2022 | Use free tools to create a simple automated Twitter bot that tweets on schedule, using [londonmapbot](https://twitter.com/londonmapbot) as an example | [Video](https://player.vimeo.com/video/683004567)<br>[Slides](https://matt-dray.github.io/mapbot-londonr/)<br>[Source](https://github.com/matt-dray/mapbot-londonr)<br>[Blog](https://www.rostrum.blog/2022/02/12/mapbotr-londonr/) |
 | Hit your reproducibility {targets} | Data Science Festival, UK Government, Sep 2020 | Introduction and demo of the {targets} package for workflow reproducibility in R | [Slides](https://matt-dray.github.io/targets-dsfest/)<br>[Source](https://github.com/matt-dray/targets-dsfest)<br>[Blog](https://www.rostrum.blog/2020/09/27/targets-dsfest/) |
 | {drake} for reproducible workflows  | Bionformatics London Meetup, London, Jan 2020 | Introduction and demo of the {drake} package for workflow reproducibility in R | [Slides](https://matt-dray.github.io/drake-bioinformatics/#1)<br>[Source](https://github.com/matt-dray/drake-bioinformatics)<br>[Blog](https://www.rostrum.blog/2020/01/31/reprobioinformatics/) |
