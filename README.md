@@ -1,7 +1,20 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
+
+[![Project Status: Moved to http://github.com/matt-dray/personal-site –
+The project has been moved to a new location, and the version at that
+location should be considered
+authoritative.](https://www.repostatus.org/badges/latest/moved.svg)](https://www.repostatus.org/#moved)
 <!-- badges: end -->
+
+⚠️ This content is out of date and has moved to
+<https://github.com/matt-dray/personal-site> (1 Jan 2024).
+
+<details>
+<summary>
+Click to see old content
+</summary>
 
 👨‍💻 A list of [public GitHub-based
 projects](https://github.com/matt-dray?tab=repositories) that I, [Matt
@@ -144,3 +157,5 @@ dabbled with but aren’t mentioned specifically on this page.
 | Splendid R games    | A list of games made with R                                                                                                                                   | [Source](https://github.com/matt-dray/awesome-r-games)<br>[Blog](https://www.rostrum.blog/posts/2023-04-02-splendid-r-games/)                                                                                              |
 | Tidyswirl           | A work-in-progress introduction to the tidyverse using {swirl} for learning R from within R itself                                                            | [Source](https://github.com/matt-dray/tidyswirl)<br>[Blog](https://www.rostrum.blog/2019/11/02/tidyswirl/)                                                                                                                 |
 | Try R v4.1          | RStudio instance in the browser with R version 4.1 so you can try out the new base pipe (`\|>`) and lambda (`\()`) syntax                                     | [Source](https://github.com/matt-dray/try-Rv4.1)<br>[Binder](https://mybinder.org/v2/gh/matt-dray/try-Rv4.1/main?urlpath=rstudio)                                                                                          |
+
+</details>
